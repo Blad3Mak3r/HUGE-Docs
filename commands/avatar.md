@@ -1,4 +1,4 @@
-# Getting started
+# Avatar
 
 ## Getting Super Powers
 
