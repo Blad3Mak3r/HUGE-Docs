@@ -7,7 +7,7 @@ description: Establishing a new prefix for your server is very simple.
 ## Restrictions
 
 {% hint style="warning" %}
-HUGE eligible prefixes are those that do not start with the following characters.
+Eligible prefixes are those that do not start with the following characters.
 
 * @
 * \#

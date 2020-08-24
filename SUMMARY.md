@@ -2,10 +2,10 @@
 
 * [Getting started](README.md)
 
-## Configuration
+## How to
 
-* [Setting up a custom prefix](configuration/custom-prefix.md)
-* [Changing bot language](configuration/change-language.md)
+* [Setting up a custom prefix](how-to/custom-prefix.md)
+* [Changing bot language](how-to/change-language.md)
 
 ## Commands
 
