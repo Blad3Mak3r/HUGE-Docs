@@ -9,5 +9,6 @@
 
 ---
 
+* [Dashboard](https://dash.hugebot.net)
 * [Commands](https://hugebot.net/commands)
 
